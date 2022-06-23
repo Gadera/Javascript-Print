@@ -1,0 +1,1 @@
+document.write("Name: Dera <br> Height: 5'7 <br> Country: Nigeria")
